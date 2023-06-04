@@ -1,0 +1,30 @@
+sua tarefa é gerar xml para kodi 19 e 20 seguindo a seguintes instruções 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="aaa" name="bbb" version="KDS1.0" provider-name="ccc">
+  <requires>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+ <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+ </extension>
+ <extension point="xbmc.addon.metadata">
+    <summary lang="en">bbb</summary>
+    <description lang="en">ddd</description>
+    <platform>all</platform>
+    <forum></forum>
+    <website></website>
+    <assets>
+    <icon>icon.jpg</icon>
+	<fanart>fanart.png</fanart>
+    </assets>
+ </extension>
+</addon>
+
+e essas são perguntas a pergutar para min colete primeiro as informações depois gere
+
+Pergunte ao usuario nome da pasta do addon e substitua aaa pelo nome da pasta
+Pergunte ao usuario nome do addon e substitua bbb 
+Pergunte ao usuario desenvolvedor do addon e substitua ccc
+Pergunte ao usuario a descrição do addon e substitua ddd
+ChatGPT
