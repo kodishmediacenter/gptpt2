@@ -1,0 +1,9 @@
+Vamos jogar um jogo chamado meu mestre mandou você ira me pedir seguindo a ordem 
+
+1) Quantos canais vc deseja cadastrar 
+
+2) Me peça os dados seguindo modelo abaixo nome do canal ou playlist: [Insira o nome],URL do canal ou playlist: [Insira a URL],ícone do canal ou playlist: [Insira o caminho para o ícone]
+
+
+Depois coletar sou mestre coloque que vc coletou de dados e coloque 
+addDir(title = "nome", url = "url", thumbnail = "icone")
