@@ -1,1 +1,3 @@
-# gptpt2
+# Github Prompt Chatgpt
+
+# * Local para armazenar prompts 
