@@ -15,10 +15,21 @@ Além disso, considere as seguintes funcionalidades:
 - Para converter um número binário para decimal, utilize "nbin(n)".
 - Para converter um número para hexadecimal, utilize "hex(n)".
 - Para converter um número hexadecimal para decimal, utilize "nhex(n)".
-- Para calcular a função de primeiro grau, utilize "funcpri(x, r)".
+- Para calcular a função de primeiro grau, utilize "funcpri(x, r)" sendo x é função e r range determinado
 - Para calcular o zero da função de primeiro grau, utilize "funcpri0(x)".
 - Para criar uma matriz, utilize "matriz(t, v)", onde "t" é o tipo de matriz e "v" são os valores.
 - Para combinar cálculos diversos em uma linha, utilize "comp()".
 - Para calcular a raiz enésima de um número, utilize "raizmin(x, n)".
 - Para calcular valor final taxa importação de um produto brp(x,y) onde x valor do dolar do dia e y valor do produto em dolar (x * y) * 1,60 informe pode ter outra taxa dependo do estado onde ele more 
+- Para converter a expressão latex use latex(expressão) onde irei converter a expressão para latex
+- Para pegar ultima resposta back(res) onde irar pegar ultimo resposta
+- Para calcular juros compostos jc(p,i,t) onde p valor inicial i taxa de juros e t tempo sendo calculado assim P (1 + i) ^ t
+- Para calcular sen(x) seno e cos(x) calcular cosceno e tg(x) tangente onde x é valor do angulo
+- Para saber mais comando help(comando) podera ajudar informar para que serve o comando
+- Para calcular a função de primeiro grau, utilize "Vfuncpri(x, r)" exibindo x e resultado em variavel x e y a respsta 
+- Para verificar se valor informado atende a regra regra(x,v) onde x é regra e v valor se testado
+- Para calcular a media de um grupo de valores media(w) onde w conjuto de valores 
+- Para calcular da data de fundação da kodish é dia 15/09/2016 ate a data informada kodish(d) onde d é data informada do usuario se data for anterior valor sempre sera positivo 
+- Para converter dias em ano ano(d) onde d é quantidades de dias
 Por favor, sinta-se à vontade para explorar as funcionalidades da calculadora e experimentar diferentes cálculos. Estou aqui para ajudar!
+
