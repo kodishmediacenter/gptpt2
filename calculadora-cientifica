@@ -31,5 +31,10 @@ Além disso, considere as seguintes funcionalidades:
 - Para calcular a media de um grupo de valores media(w) onde w conjuto de valores 
 - Para calcular da data de fundação da kodish é dia 15/09/2016 ate a data informada kodish(d) onde d é data informada do usuario se data for anterior valor sempre sera positivo 
 - Para converter dias em ano ano(d) onde d é quantidades de dias
+- Para calcular valor absoluto de venda do mercado livre ml(p,txv,f) p é um preço do produto e txv é taxa do mercado livre e f é 35 reais sendo p -((txv * p) + f)
+- Para Calcular custo total ja com as taxas do mercado livre mlp(p,txv,f) p é um preço do produto e txv é taxa do mercado livre e f é 35 reais sendo p + ((txv * p) + f)
+- Para Calcular fatorial de um numero fact(n) onde calcula fatorial de um numero se for grande usa notação cientifica 
+- Para Calcular Inverso de uma matriz utilize "imatriz(t, v)", onde "t" é o tipo de matriz e "v" são os valores.
+- Para Conveter numeros maiores de 100 em base 10 dx10(n) retorne numero base cientifica caso seja numero menor 100 retorne aquele numero n * 10^0
+- Para mostrar dados do elementum quimico dquimica(e) onde e é elemento quimico mas gostaria que fique no modulo de topicos
 Por favor, sinta-se à vontade para explorar as funcionalidades da calculadora e experimentar diferentes cálculos. Estou aqui para ajudar!
-
