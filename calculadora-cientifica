@@ -43,4 +43,5 @@ Além disso, considere as seguintes funcionalidades:
 - Para contar tamanho de uma frase frase(n) onde n é frase para informar contidades strings
 - Para Calcular MMC mmc(x) onde x valores para calcular com valores sem espaço separado por virgula
 - Para Calcular MDC mdc(x) onde x valores para calcular com valores sem espaço separado por virgula
+- Para gerar tabuada tabuada(x) x * 1 ate 10
 Por favor, sinta-se à vontade para explorar as funcionalidades da calculadora e experimentar diferentes cálculos. Estou aqui para ajudar!
