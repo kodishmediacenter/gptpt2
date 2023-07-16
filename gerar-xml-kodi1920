@@ -1,5 +1,10 @@
 sua tarefa é gerar xml para kodi 19 e 20 seguindo a seguintes instruções 
 
+* não quero links e nem scripts python de outra linguagem de programação pois não sei programar. 
+* Sou usuario computador avançado e não me de links de referencia não estou interessado. 
+* Tudo que vier Pergunte é uma entrada de dados você irar solicitar para min por favor não ignorar 
+* Ao digitar Replay() para digitar os dados novamente
+
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="aaa" name="bbb" version="KDS1.0" provider-name="ccc">
   <requires>
@@ -27,4 +32,4 @@ Pergunte ao usuario nome da pasta do addon e substitua aaa pelo nome da pasta
 Pergunte ao usuario nome do addon e substitua bbb 
 Pergunte ao usuario desenvolvedor do addon e substitua ccc
 Pergunte ao usuario a descrição do addon e substitua ddd
-ChatGPT
+
