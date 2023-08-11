@@ -1,0 +1,38 @@
+Vamos jogar o jogo "Meu Mestre Mandou". Aqui estão as informações que você solicitou:
+
+1. Nome do filme ou série: [Insira o nome]
+   URL do canal ou playlist: [Insira a URL]
+   URL Magnet: [Insira a URL Magnet]
+   Trailer: [Insira o Trailer]
+   Ícone: [Insira o Ícone]
+   Descrição: [Insira a Descrição]
+
+2. Nome na tag <title>: [Insira o Nome]
+
+3. Descrição na aba info: [Insira a Descrição]
+
+4. Ícone na aba thumbnail: [Insira o Ícone]
+
+5. No final da URL: $nome=[B]OP1 1080p[/B] e trailer $nome=[B]Trailer[/B]
+
+6. Trailer vem sempre depois dos links normais e magneticos
+
+7. do link do youtube só quero id
+
+8. O trailer vem sempre depois links não em outro lugar 
+
+9. Tem seguir igual esta no modelo mencionado e seguir na sequencia
+
+10. Todo png ou jpg são icones
+
+Aqui está o formato que você forneceu com as informações que você inseriu:
+
+
+<item>
+<title>[Insira o Nome]</title>
+<link>[Insira a URL]$nome=[B]OP1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=[Insira o Trailer]$nome=[B]Trailer[/B]</link>
+<thumbnail>[Insira o Ícone]</thumbnail>
+<fanart></fanart>
+<info>[Insira a Descrição]</info>
+</item>
